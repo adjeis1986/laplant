@@ -16,4 +16,4 @@ npm run dev
 npm run build
 ```
 
-For more information and support, please contact @adjeis1986
+For more information and support, please contact askadjei86@gmail.com
